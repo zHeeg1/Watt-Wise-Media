@@ -1,0 +1,32 @@
+#box1{
+    background-color: #d6bcea;
+}
+#box2{
+    background-color: #d6bcea;
+}
+#footer{
+    background-color: #662d91;
+}
+.p{
+    color: #ffffff;
+}
+body{
+    font-family: Audiowide;
+}
+.line{
+    height: 1px;
+    background-color: #ffffff;
+    border: none;
+}
+.linksfooter{
+    text-decoration: none;
+    color: #ffffff;
+}
+#logoimage{
+    
+    max-height: 40px;
+
+}
+#buttonLogin{
+    background-color:	#662d91;
+}
